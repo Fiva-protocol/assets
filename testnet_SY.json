@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Evaa USDT",
+    "maturity":  "2025-06-01",
+    "address": "EQCsAX3VfWtwqKAtY0r4K1j0lZj4sMRdEKYDnOSh1LCKDQLi"
+  },
+  {
+    "name": "Storm USDT-SLP",
+    "maturity":  "2025-06-01",
+    "address": "EQA_thFkyhOaM4X1GPmryzrp_Hzm8GVDUqe2AgmOjbclx5AD"
+  },
+  {
+    "name": "Storm TON-SLP",
+    "maturity":  "2025-06-01",
+    "address": "EQBGj92YaW2A0hh_CpEh7MjVa5wOfePNVX0GchsgYVLWY_gI"
+  },
+  {
+    "name": "Storm NOT-SLP",
+    "maturity":  "2025-06-01",
+    "address": "EQDSdkDiriSULY_bvCTfRAwmX558bcTZBseGJ75SmRE5J_xC"
+  }
+]
