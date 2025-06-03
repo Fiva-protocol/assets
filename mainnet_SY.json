@@ -1,22 +1,32 @@
 [
   {
+    "name": "Stg USDT",
+    "maturity":  "2025-09-01",
+    "address": "EQDlXX9oDYb_JS9EHSz5-b9oiGW0kM-wg15o6W5CjzEbLxGH"
+  },
+  {
     "name": "Evaa USDT",
-    "maturity":  "2025-06-01",
-    "address": "EQDi9blCcyT-k8iMpFMYY0t7mHVyiCB50ZsRgyUECJDuGvIl"
+    "maturity":  "2025-09-01",
+    "address": "EQBY5JE96x_U5fSSsAzBj8d-_ZbK-5AihJ2rzjTZAtNqsntL"
+  },
+  {
+    "name": "Ethena USDe",
+    "maturity":  "2025-09-01",
+    "address": "EQDafE9flDXaRCnhrprgPj_sJNJb502Dov1GDruIRjarHscs"
+  },
+  {
+    "name": "Ethena tsUSDe",
+    "maturity":  "2025-09-01",
+    "address": "EQC57U5O4_OGLSEgX498PpmNqSYzcXx63wvOdtkCoe5LHcfo"
   },
   {
     "name": "Storm USDT-SLP",
-    "maturity":  "2025-06-01",
-    "address": "EQA0Pobx0rXc7MlfXvUAZlC_U4MRGJ4FKGq79dHbBJ7RsuyB"
+    "maturity":  "2025-09-01",
+    "address": "EQDLqPppdVfv4bVqV6bpCYwmDUVCsem2LV5zda3fMIKgCxkH"
   },
   {
     "name": "Storm TON-SLP",
-    "maturity":  "2025-06-01",
-    "address": "EQB9nQdgwdaTXG6F7mDEErPuuJza6lmCfQjun-PXK3iJXm2h"
-  },
-  {
-    "name": "Storm NOT-SLP",
-    "maturity":  "2025-06-01",
-    "address": "EQD5A2ygwSgAXXTqI-OkAOY72bXn8-mRgE9wOEFLKgu6ifbD"
+    "maturity":  "2025-09-01",
+    "address": "EQBeLuWFjniPGnAyy7gVKJkA1mXptxP-dgBswKIY5su6NHFd"
   }
 ]
