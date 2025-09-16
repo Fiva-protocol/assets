@@ -18,5 +18,35 @@
     "name": "Storm NOT-SLP",
     "maturity":  "2025-06-01",
     "address": "EQDSdkDiriSULY_bvCTfRAwmX558bcTZBseGJ75SmRE5J_xC"
+  },
+  {
+    "name": "Stg USDT",
+    "maturity":  "2025-09-01",
+    "address": "EQDlXX9oDYb_JS9EHSz5-b9oiGW0kM-wg15o6W5CjzEbLxGH"
+  },
+  {
+    "name": "Evaa USDT",
+    "maturity":  "2025-09-01",
+    "address": "EQBY5JE96x_U5fSSsAzBj8d-_ZbK-5AihJ2rzjTZAtNqsntL"
+  },
+  {
+    "name": "Ethena USDe",
+    "maturity":  "2025-09-01",
+    "address": "EQDafE9flDXaRCnhrprgPj_sJNJb502Dov1GDruIRjarHscs"
+  },
+  {
+    "name": "Ethena tsUSDe",
+    "maturity":  "2025-09-01",
+    "address": "EQC57U5O4_OGLSEgX498PpmNqSYzcXx63wvOdtkCoe5LHcfo"
+  },
+  {
+    "name": "Storm USDT-SLP",
+    "maturity":  "2025-09-01",
+    "address": "EQDLqPppdVfv4bVqV6bpCYwmDUVCsem2LV5zda3fMIKgCxkH"
+  },
+  {
+    "name": "Storm TON-SLP",
+    "maturity":  "2025-09-01",
+    "address": "EQBeLuWFjniPGnAyy7gVKJkA1mXptxP-dgBswKIY5su6NHFd"
   }
 ]

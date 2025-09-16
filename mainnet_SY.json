@@ -1,32 +1,42 @@
 [
   {
-    "name": "Stg USDT",
-    "maturity":  "2025-09-01",
-    "address": "EQDlXX9oDYb_JS9EHSz5-b9oiGW0kM-wg15o6W5CjzEbLxGH"
+    "name": "Euler eTON-1",
+    "maturity":  "2025-12-18",
+    "address": "EQDEfr89L-vIsH6Q_eEa73XLq3M5j0bgolze9TPpqOdn6RTm"
   },
   {
-    "name": "Evaa USDT",
-    "maturity":  "2025-09-01",
-    "address": "EQBY5JE96x_U5fSSsAzBj8d-_ZbK-5AihJ2rzjTZAtNqsntL"
+    "name": "Euler eTON-2",
+    "maturity":  "2025-12-18",
+    "address": "EQAtpIx_bdafAUKZ57W22zwFL9nwGg5fl7hOdGrZdkLTXbv7"
+  },
+  {
+    "name": "Tonstakers tsTON",
+    "maturity":  "2025-12-18",
+    "address": "EQBoiugW7Q6X4r6hEfN-r-9ZI8Fmc3s9qRGysPeP-CEjdp9P"
+  },
+  {
+    "name": "Torch stgUSD",
+    "maturity":  "2025-12-18",
+    "address": "EQDNpu_tNKXhXcJDD5pqutEp4YpmeW2EgJqWQAmCgicBWl_u"
   },
   {
     "name": "Ethena USDe",
-    "maturity":  "2025-09-01",
-    "address": "EQDafE9flDXaRCnhrprgPj_sJNJb502Dov1GDruIRjarHscs"
+    "maturity":  "2025-12-18",
+    "address": "EQA8xzTSbgG8yMGPAC4te9c9YrezJ3X3vQ6dxhodXU0KIWeH"
   },
   {
     "name": "Ethena tsUSDe",
-    "maturity":  "2025-09-01",
-    "address": "EQC57U5O4_OGLSEgX498PpmNqSYzcXx63wvOdtkCoe5LHcfo"
+    "maturity":  "2025-12-18",
+    "address": "EQBxUy6vYBo3zb0v1XvJP2kePQQ7D2447i5EymEdvyTAJlVi"
   },
   {
     "name": "Storm USDT-SLP",
-    "maturity":  "2025-09-01",
-    "address": "EQDLqPppdVfv4bVqV6bpCYwmDUVCsem2LV5zda3fMIKgCxkH"
+    "maturity":  "2025-12-18",
+    "address": "EQBbmjEHGkEDofbig93IAOE-aiQ_4caa1fVcn97GBjfNzV-Z"
   },
   {
     "name": "Storm TON-SLP",
-    "maturity":  "2025-09-01",
-    "address": "EQBeLuWFjniPGnAyy7gVKJkA1mXptxP-dgBswKIY5su6NHFd"
+    "maturity":  "2025-12-18",
+    "address": "EQBrHC-Fhg9_YupfujOuC2OTeVkkDrgpyHM63gfBdqYYe_pt"
   }
 ]
